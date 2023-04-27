@@ -1,0 +1,5 @@
+.vscode
+**/__pycache__/**
+*.json
+*.zip
+**/face_recog_dlib_file
