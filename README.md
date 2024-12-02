@@ -10,8 +10,8 @@ The following commands should be executed in the root folder of the project.
 
 Please first update below and push your change to this repo.
 
-- [your name]
-- [ubit name]
+- Muntaqa Maahi
+- muntaqam
 
 **task 1 validation set**
 
@@ -46,6 +46,6 @@ sh pack_submission.sh <YourUBITName>
 * Note: In the commands, use `python3` if your environment has python named as `python3` instead `python`.
 
 Change **`<YourUBITName>`** with your UBIT name.
-The resulting zip file should be named **"submission\_`<YourUBITName>`.zip"**, and it should contain 3 files, named **"result_task1.json"**, **"result_task2.json,"**, and **"UB\_Face.py"**. If not, there is something wrong with your code/filename, please go back and check.
+The resulting zip file should be named **"submission\_muntaqam.zip"**, and it should contain 3 files, named **"result_task1.json"**, **"result_task2.json,"**, and **"UB\_Face.py"**. If not, there is something wrong with your code/filename, please go back and check.
 
 You should only submit the zip file.
