@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/hva9lNpU)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11003180&assignment_repo_type=AssignmentRepo)
 # SP23-CSE473-573-A-P3
 
@@ -9,8 +10,8 @@ The following commands should be executed in the root folder of the project.
 
 Please first update below and push your change to this repo.
 
-- [your name]
-- [ubit name]
+- Muntaqa Maahi
+- muntaqam
 
 **task 1 validation set**
 
@@ -45,6 +46,6 @@ sh pack_submission.sh <YourUBITName>
 * Note: In the commands, use `python3` if your environment has python named as `python3` instead `python`.
 
 Change **`<YourUBITName>`** with your UBIT name.
-The resulting zip file should be named **"submission\_`<YourUBITName>`.zip"**, and it should contain 3 files, named **"result_task1.json"**, **"result_task2.json,"**, and **"UB\_Face.py"**. If not, there is something wrong with your code/filename, please go back and check.
+The resulting zip file should be named **"submission\_muntaqam.zip"**, and it should contain 3 files, named **"result_task1.json"**, **"result_task2.json,"**, and **"UB\_Face.py"**. If not, there is something wrong with your code/filename, please go back and check.
 
 You should only submit the zip file.
